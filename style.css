@@ -1,0 +1,49 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+ h1{
+    font-family: Lucida Calligraphy;
+ }
+.live{
+    width: 200px;
+    height: 100px;
+    border-color: rgb(246, 9, 135);
+    border-radius: 0px 900px 0px 900px;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.Hemisphere{
+    width: 200px;
+    height: 100px;
+    border-color: greenyellow;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 100px 100px 0px 0px;
+ 
+}
+
+.Rectangle{
+    width: 200px;
+    height: 100px;
+    border-color: rgb(226, 226, 23);
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 15px 15px 15px 15px;
+   
+}
+
+.Bullet{
+    width: 200px;
+    height: 100px;
+    border-color: darkblue;
+    border-style: solid;
+    border-width: 5px;
+    border-radius:50px 200px 200px 50px;
+   
+}
